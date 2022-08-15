@@ -25,7 +25,7 @@ const Footer = () => {
         
        </div>
        <div className="email">
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=0308urvashi@gmail.com"><FaMailBulk size={20} style={{color:"#fff",marginRight: "2rem"}}/>0308urvashi@gmail.com</a>
+            <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=0308urvashi@gmail.com"><FaMailBulk size={20} style={{color:"#fff",marginRight: "2rem"}}/>0308urvashi@gmail.com</a>
         
        </div>
         </div>
