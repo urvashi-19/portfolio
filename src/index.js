@@ -16,9 +16,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <>
-  <BrowserRouter browser={process.env.PUBLIC_URL}>
+  <BrowserRouter basename="/portfolio">
   <Routes>
-  <Route exact path ='/' element = {<App/>}/>
+  <Route exact path ='/portfolio' element = {<App/>}/>
   {/* <Route path ='/' element = {<Home/>}/> */}
   <Route exact path ='/about' element = {<About/>}/>
   <Route  exact path ='/contacts' element = {<Contacts/>}/>
