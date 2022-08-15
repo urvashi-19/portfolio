@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.49ce7ad5.css",
+    "main.js": "/portfolio/static/js/main.ffa75115.js",
+    "static/media/game1.png": "/portfolio/static/media/game1.34b0468ae576a1d0947e.png",
+    "static/media/weat1.png": "/portfolio/static/media/weat1.bf805d3474c12c4b2b5e.png",
+    "static/media/introbg.jpg": "/portfolio/static/media/introbg.ed83ff3649a39735b7b8.jpg",
+    "static/media/filt1.png": "/portfolio/static/media/filt1.95c30126eca5ae5de5b6.png",
+    "static/media/reactjs.jpg": "/portfolio/static/media/reactjs.f90cd3d83972bb0feb9c.jpg",
+    "static/media/ecom3.avif": "/portfolio/static/media/ecom3.d4e30e98b9116f12bccb.avif",
+    "index.html": "/portfolio/index.html",
+    "main.49ce7ad5.css.map": "/portfolio/static/css/main.49ce7ad5.css.map",
+    "main.ffa75115.js.map": "/portfolio/static/js/main.ffa75115.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ce7ad5.css",
+    "static/js/main.ffa75115.js"
+  ]
+}
