@@ -15,25 +15,20 @@ import Contacts from "./routes/Contacts";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-  <>
-  <BrowserRouter basename="/portfolio">
+  <div>
+  <BrowserRouter >
   <Routes>
-  <Route exact path ='/portfolio' element = {<App/>}/>
+  <Route exact path ='/' element = {<App/>}/>
   {/* <Route path ='/' element = {<Home/>}/> */}
   <Route exact path ='/about' element = {<About/>}/>
   <Route  exact path ='/contacts' element = {<Contacts/>}/>
   <Route  exact path ='/project' element = {<Project/>}/>
-
-  
-  
-
-  
-  </Routes>
+</Routes>
    
   </BrowserRouter>
   
    
-   </>
+   </div>
   
 
 );
