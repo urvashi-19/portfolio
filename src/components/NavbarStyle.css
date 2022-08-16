@@ -46,8 +46,8 @@ body{
         /* making position of portfolio stick to top */
         position:absolute;
         top:0;
-        /* hiding navmenu by -100% */
-        left:-110%;
+        /* hiding navmenu by -110% */
+        left:-16%;
         z-index: -3;
         transition: 0.3s;
 
