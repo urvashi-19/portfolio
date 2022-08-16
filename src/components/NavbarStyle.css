@@ -47,13 +47,13 @@ body{
         position:absolute;
         top:0;
         /* hiding navmenu by -110% */
-        left:-16%;
+        left:-850px;
         z-index: -3;
         transition: 0.3s;
 
     }
     .nav-menu.active{
-        left: 0;
+        left: -75px;
     }
     .nav-menu li {
         padding : 1rem 0;
