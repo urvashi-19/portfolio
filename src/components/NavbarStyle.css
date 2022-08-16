@@ -47,7 +47,7 @@ body{
         position:absolute;
         top:0;
         /* hiding navmenu by -100% */
-        left:-100%;
+        left:-110%;
         z-index: -3;
         transition: 0.3s;
 
